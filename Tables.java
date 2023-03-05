@@ -1,3 +1,5 @@
+
+// To print multiplication table
 public class MultiplicationTable {
 
     public static void main(String[] args) {
